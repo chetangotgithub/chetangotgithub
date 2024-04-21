@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chetangotgithub
-- 👀 I’m interested in DSA
+- 👀 I’m interested in JavaScript development
 - 🌱 I’m currently working as backend developer
 - 💞️ I’m looking to collaborate on Open Source Platforms
 - 📫 How to reach me chetan.zagade@vit.edu.in
