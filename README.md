@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chetangotgithub
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning Algorithms
+- 👀 I’m interested in DSA
+- 🌱 I’m currently working as backend developer
 - 💞️ I’m looking to collaborate on Open Source Platforms
 - 📫 How to reach me chetan.zagade@vit.edu.in
 
