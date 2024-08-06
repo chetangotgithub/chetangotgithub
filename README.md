@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chetangotgithub
 - 👀 I’m interested in JavaScript development
-- 🌱 I’m currently working as backend developer
+- 🌱 I’m currently working as Software Engineer
 - 💞️ I’m looking to collaborate on Open Source Platforms
 - 📫 How to reach me chetanzagade28@gmail.com
 
