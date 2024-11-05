@@ -2,6 +2,7 @@
 - 👀 I’m interested in JavaScript development
 - 🌱 I’m currently working as Software Engineer
 - 💞️ I’m looking to collaborate on Open Source Platforms
+- 📝 I'm currently learning Next.js
 - 📫 How to reach me chetanzagade28@gmail.com
 
 <!---
@@ -20,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <h2>Testing Libraries
 </h2>
 
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 
 <h2>DataBase</h2>
@@ -29,5 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetangotgithub&layout=compact)
+![chetangotgithub's Stats](https://github-readme-stats.vercel.app/api?username=chetangotgithub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  ![chetangotgithub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetangotgithub&theme=vue-dark&hide_border=true)
+
+![chetangotgithub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetangotgithub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
