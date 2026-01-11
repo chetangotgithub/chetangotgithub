@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <h2>FrameWorks</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 <h2>Testing Libraries
 </h2>
 
@@ -30,10 +30,15 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Stats</h2>
 
-![chetangotgithub's Stats](https://github-readme-stats.vercel.app/api?username=chetangotgithub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  ![chetangotgithub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetangotgithub&theme=vue-dark&hide_border=true)
+![chetangotgithub's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chetangotgithub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <h2>AI tools</h2>
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
-![chetangotgithub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetangotgithub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman%20AI-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+![chetangotgithub's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chetangotgithub&theme=vue-dark&layout=compact&hide_border=true)
 
